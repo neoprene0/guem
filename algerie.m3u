@@ -1,3 +1,27 @@
 # EXTM3U
-#EXTINF: 0, ---- TEST TV  ----
-https://t-soln.blogspot.com/
+#EXTINF:-1,FR: TF1 HD
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/120187
+#EXTINF:-1,FR: TF1 FHD
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/120043
+#EXTINF:-1,FR: France 2 HD
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/120188
+#EXTINF:-1,FR: FRANCE 2 FHD
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/120044
+#EXTINF:-1,FR: France 3 HD
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/120189
+#EXTINF:-1,FR: FRANCE 3 FHD
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/120045
+#EXTINF:-1,FR: France 4 HD
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/120199
+#EXTINF:-1,FR: FRANCE 4 FHD
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/120054
+#EXTINF:-1,FR: France 5 HD
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/120193
+#EXTINF:-1,FR: FRANCE 5 FHD
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/120048
+#EXTINF:-1,FR: France O
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/120204
+#EXTINF:-1,FR: M6
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/120192
+#EXTINF:-1,FR: M6 FHD
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/120047
